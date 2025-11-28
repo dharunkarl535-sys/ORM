@@ -46,8 +46,8 @@ class CarAdmin(admin.ModelAdmin):
 
 ## OUTPUT
 
-<img width="1920" height="1080" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/90b20911-6dfc-4ac8-b8aa-4db2235d72ec" />
 
+<img width="1920" height="1080" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/4272b49c-c9a9-40d4-9290-5d81870086f9" />
 
 
 
