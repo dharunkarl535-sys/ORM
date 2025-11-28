@@ -45,7 +45,7 @@ class CarAdmin(admin.ModelAdmin):
     ```
 
 ## OUTPUT
-Screenshot (46).png
+c:\Users\acer\OneDrive\Pictures\Screenshots\Screenshot (46).png 
  
 
 
