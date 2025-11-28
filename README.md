@@ -45,8 +45,8 @@ class CarAdmin(admin.ModelAdmin):
     ```
 
 ## OUTPUT
-c:\Users\acer\OneDrive\Pictures\Screenshots\Screenshot (46).png 
  
+ ![alt text](<Screenshot (46).png>)
 
 
 ## RESULT
